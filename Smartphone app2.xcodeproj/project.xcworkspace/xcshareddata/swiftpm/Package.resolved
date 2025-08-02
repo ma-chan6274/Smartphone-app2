@@ -1,0 +1,51 @@
+{
+  "originHash" : "e31733f5847fc673808d320811d5720b4acdb66f99304f8b28ef1aada1f3e585",
+  "pins" : [
+    {
+      "identity" : "charts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ChartsOrg/Charts",
+      "state" : {
+        "revision" : "dd9c72e3d7e751e769971092a6bd72d39198ae63",
+        "version" : "5.1.0"
+      }
+    },
+    {
+      "identity" : "fscalendar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/WenchaoD/FSCalendar",
+      "state" : {
+        "revision" : "0fbdec5172fccb90f707472eeaea4ffe095278f6",
+        "version" : "2.8.4"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core.git",
+      "state" : {
+        "revision" : "cccb3ca9e26ec452a29f2f0d4050d1e38b8a3d43",
+        "version" : "14.14.0"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift",
+      "state" : {
+        "branch" : "master",
+        "revision" : "5fcba6408c99eb3596bf5ae148bfc1a33b5adebd"
+      }
+    },
+    {
+      "identity" : "uicircularprogressring",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/luispadron/UICircularProgressRing",
+      "state" : {
+        "branch" : "master",
+        "revision" : "5b00b9b42b0a7db6f8239d526d7251eef9a63dcd"
+      }
+    }
+  ],
+  "version" : 3
+}
